@@ -11,7 +11,7 @@ if ($test == true) {
     if ($_POST[a1] == tr){$pr++;} else {$no++;}
     if ($_POST[a2] == tr){$pr++;} else {$no++;}
     if ($_POST[a3] == tr){$pr++;} else {$no++;}
-    echo"<center> <strong>$pr</strong> баллов за тест </center>";
+    echo"<center> <strong>$pr</strong>набрали баллов за тест </center>";
 }
 
 
